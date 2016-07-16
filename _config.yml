@@ -1,0 +1,26 @@
+# Site settings
+title: "Chris Praktish"
+email: chris.praktish@gmail.com
+url: https://cprakti.github.io
+description: "developer,  educator,  leader"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000009'
+  links: '#BBC593'
+
+# Footer settings
+footer: Chris Praktish
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: https://github.com/IronSummitMedia/startbootstrap
+
+# Build settings
+markdown: kramdown
+permalink: pretty
